@@ -1,0 +1,45 @@
+
+Consensus tree program, version 3.696
+
+Species in order: 
+
+  1. 10.fa
+  2. 04.fa
+  3. 50.fa
+  4. 12.fa
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of   10.00
+
+.*.*                        5.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of   10.00
+
+..**                        3.00
+.**.                        2.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of  10.00 trees
+
+  +-----------------------10.fa
+  |
+  |               +-------04.fa
+  |       +--5.00-|
+  +-------|       +-------12.fa
+          |
+          +---------------50.fa
+
+
+  remember: this is an unrooted tree!
+
