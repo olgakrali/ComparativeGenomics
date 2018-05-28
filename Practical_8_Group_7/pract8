@@ -1,0 +1,2180 @@
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00006_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00006_rev	sp|Q03099|YMN3_YEAST	90.84	644	7	3	1	596	735	1374	0.0	1190
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00007_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00007_rev	sp|Q07888|YL067_YEAST	98.89	450	5	0	9	458	266	715	0.0	931
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00008_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00008_rev	sp|P38722|YHE9_YEAST	100.00	271	0	0	1	271	1	271	0.0	560
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00009
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00009	sp|P13433|RPOM_YEAST	33.33	27	18	0	10	36	1093	1119	2.6	23.5
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00011
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00011	sp|P38723|COS8_YEAST	100.00	381	0	0	1	381	1	381	0.0	773
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00013_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00013_rev	sp|P38724|ARN2_YEAST	100.00	620	0	0	1	620	1	620	0.0	1271
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00018_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00018_rev	sp|P38725|PAU13_YEAST	100.00	120	0	0	1	120	1	120	2e-84	244
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00020
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00020	sp|P38727|YHE4_YEAST	100.00	235	0	0	1	235	1	235	1e-174	482
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00023
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00023	sp|P38728|ECM34_YEAST	100.00	170	0	0	1	170	1	170	2e-127	357
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00024
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00024	sp|P38729|YHE2_YEAST	100.00	150	0	0	41	190	1	150	2e-109	311
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00026_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00026_rev	sp|P17442|PHO81_YEAST	47.37	19	10	0	6	24	871	889	0.43	25.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00027
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00027	sp|P38730|YHE1_YEAST	100.00	41	0	0	1	41	109	149	7e-25	89.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00029_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00029_rev	sp|P38731|ARN1_YEAST	100.00	627	0	0	1	627	1	627	0.0	1292
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00030_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00030_rev	sp|P36051|MCD4_YEAST	53.85	13	6	0	6	18	120	132	3.1	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00031
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00031	sp|P24583|KPC1_YEAST	42.86	21	12	0	1	21	759	779	1.9	23.5
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00032
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00032	sp|P38732|EFM1_YEAST	100.00	585	0	0	1	585	1	585	0.0	1198
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00033_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00033_rev	sp|P03874|CBP2_YEAST	100.00	630	0	0	4	633	1	630	0.0	1310
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00037
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00037	sp|P38734|MUP3_YEAST	100.00	546	0	0	1	546	1	546	0.0	1098
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00039_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00039_rev	sp|P38735|VMR1_YEAST	100.00	1592	0	0	1	1592	1	1592	0.0	3248
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00041_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00041_rev	sp|P10080|SSBP1_YEAST	100.00	294	0	0	1	294	1	294	0.0	593
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00043_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00043_rev	sp|P17076|RL8A_YEAST	100.00	256	0	0	1	256	1	256	0.0	519
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00044_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00044_rev	sp|P32190|GLPK_YEAST	100.00	676	0	0	1	676	34	709	0.0	1414
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00045_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00045_rev	sp|P38736|GOSR1_YEAST	100.00	223	0	0	1	223	1	223	2e-164	455
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00047
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00047	sp|P38737|ECM29_YEAST	100.00	1868	0	0	1	1868	1	1868	0.0	3827
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00048_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00048_rev	sp|P38738|OCA5_YEAST	100.00	679	0	0	1	679	1	679	0.0	1391
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00049
+# Database: Scer.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00052
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00052	sp|P38739|WSC4_YEAST	100.00	605	0	0	1	605	1	605	0.0	1174
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00054
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00054	sp|P33400|PACC_YEAST	100.00	625	0	0	1	625	1	625	0.0	1291
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00055_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00055_rev	sp|P38740|YHC6_YEAST	100.00	315	0	0	1	315	1	315	0.0	654
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00056
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00056	sp|P47034|ICS3_YEAST	36.36	44	25	1	17	60	16	56	0.043	28.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00059
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00059	sp|Q12253|YL046_YEAST	31.03	29	20	0	9	37	4	32	2.8	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00060
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00060	sp|P18888|SNF6_YEAST	100.00	96	0	0	1	96	237	332	2e-63	196
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00061_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00061_rev	sp|P40955|CHS6_YEAST	24.00	75	51	2	1	75	636	704	0.69	28.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00062
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00062	sp|P38741|RIM4_YEAST	100.00	713	0	0	1	713	1	713	0.0	1483
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00066_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00066_rev	sp|P38742|NPR3_YEAST	100.00	1146	0	0	1	1146	1	1146	0.0	2370
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00068_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00068_rev	sp|P23179|SPO11_YEAST	100.00	398	0	0	1	398	1	398	0.0	825
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00070_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00070_rev	sp|P23180|AIM17_YEAST	100.00	465	0	0	1	465	1	465	0.0	967
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00072_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00072_rev	sp|P21957|OPI1_YEAST	100.00	404	0	0	1	404	1	404	0.0	826
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00075_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00075_rev	sp|P38700|APM2_YEAST	100.00	605	0	0	1	605	1	605	0.0	1247
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00077
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00077	sp|Q04493|PFD5_YEAST	26.83	41	30	0	9	49	33	73	1.1	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00078
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00078	sp|P38745|YHB7_YEAST	100.00	497	0	0	1	497	36	532	0.0	1024
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00080_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00080_rev	sp|P33413|DUR3_YEAST	100.00	735	0	0	1	735	1	735	0.0	1509
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00081_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00081_rev	sp|P38063|KPR4_YEAST	54.17	24	11	0	25	48	90	113	0.50	25.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00083
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00083	sp|P38701|RS20_YEAST	100.00	121	0	0	1	121	1	121	3e-83	241
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00084_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00084_rev	sp|P38746|YLF2_YEAST	100.00	405	0	0	1	405	1	405	0.0	832
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00085_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00085_rev	sp|P38747|OTU2_YEAST	100.00	307	0	0	1	307	1	307	0.0	633
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00086
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00086	sp|P38907|CENPN_YEAST	35.90	39	21	2	10	44	63	101	2.8	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00088
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00088	sp|P38709|UGPA2_YEAST	100.00	493	0	0	1	493	1	493	0.0	1002
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00089
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00089	sp|P38089|PP2C4_YEAST	38.46	26	16	0	1	26	246	271	0.11	27.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00090_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00090_rev	sp|P38689|KPR3_YEAST	100.00	320	0	0	1	320	1	320	0.0	650
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00093_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00093_rev	sp|P38748|ETP1_YEAST	100.00	585	0	0	1	585	1	585	0.0	1216
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00094_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00094_rev	sp|P38749|YAP3_YEAST	100.00	330	0	0	18	347	1	330	0.0	685
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00095
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00095	sp|Q6Q5P6|YH41A_YEAST	100.00	413	0	0	1	413	1	413	0.0	847
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00097
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00097	sp|P0C2J7|YH41B_YEAST	100.00	1399	0	0	1	1399	404	1802	0.0	2878
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00100_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00100_rev	sp|P38750|YHA8_YEAST	100.00	627	0	0	5	631	1	627	0.0	1291
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00102_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00102_rev	sp|Q03497|STE20_YEAST	100.00	939	0	0	1	939	1	939	0.0	1928
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00103
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00103	sp|P32902|RT04_YEAST	100.00	394	0	0	1	394	1	394	0.0	804
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00104_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00104_rev	sp|P38703|LAG1_YEAST	100.00	411	0	0	1	411	1	411	0.0	852
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00105
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00105	sp|P02557|TBB_YEAST	34.62	26	17	0	2	27	257	282	0.35	25.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00107
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00107	sp|P38753|HSE1_YEAST	100.00	452	0	0	1	452	1	452	0.0	934
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00108
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00108	sp|P36105|RL14A_YEAST	100.00	44	0	0	1	44	1	44	1e-23	85.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00110
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00110	sp|P38754|RL14B_YEAST	100.00	94	0	0	1	94	45	138	8e-63	188
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00112
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00112	sp|P38755|OSH7_YEAST	100.00	437	0	0	1	437	1	437	0.0	906
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00113
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00113	sp|P37299|QCR10_YEAST	100.00	47	0	0	1	47	31	77	9e-30	100
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00114
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00114	sp|P38702|LEU5_YEAST	100.00	357	0	0	1	357	1	357	0.0	743
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00115_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00115_rev	sp|P38756|TCD1_YEAST	100.00	429	0	0	1	429	1	429	0.0	889
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00116_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00116_rev	sp|P53036|SAP4_YEAST	35.29	34	22	0	6	39	420	453	2.9	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00118_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00118_rev	sp|P38757|NEM1_YEAST	100.00	446	0	0	1	446	1	446	0.0	911
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00120_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00120_rev	sp|P08539|GPA1_YEAST	100.00	468	0	0	1	468	5	472	0.0	962
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00121_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00121_rev	sp|P87108|TIM10_YEAST	100.00	93	0	0	1	93	1	93	3e-64	191
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00124
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00124	sp|P50082|AMA1_YEAST	40.00	35	18	1	7	41	289	320	1.1	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00125
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00125	sp|P32527|ZUO1_YEAST	45.83	24	13	0	11	34	196	219	2.2	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00127
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00127	sp|P38704|STP2_YEAST	100.00	517	0	0	1	517	25	541	0.0	1071
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00128_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00128_rev	sp|P10614|CP51_YEAST	100.00	530	0	0	1	530	1	530	0.0	1107
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00129_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00129_rev	sp|Q07074|YH007_YEAST	100.00	71	0	0	1	71	1	71	1e-45	141
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00131_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00131_rev	sp|P00447|SODM_YEAST	100.00	233	0	0	1	233	1	233	7e-175	483
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00132_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00132_rev	sp|P38758|TDA3_YEAST	100.00	523	0	0	1	523	1	523	0.0	1080
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00133
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00133	sp|P53916|TEP1_YEAST	40.00	30	18	0	16	45	18	47	0.57	25.0
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00134
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00134	sp|P0C2H6|RL27A_YEAST	99.21	127	1	0	28	154	10	136	1e-87	254
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00136
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00136	sp|P38705|SYSM_YEAST	100.00	446	0	0	1	446	1	446	0.0	925
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00137
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00137	sp|P38759|VPS29_YEAST	100.00	235	0	0	1	235	48	282	5e-175	485
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00138_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00138_rev	sp|P07347|ARD1_YEAST	100.00	223	0	0	1	223	16	238	2e-166	461
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00139
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00139	sp|P23624|SPO13_YEAST	100.00	291	0	0	1	291	1	291	0.0	588
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00140
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00140	sp|P38760|MIP6_YEAST	100.00	659	0	0	1	659	1	659	0.0	1354
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00142_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00142_rev	sp|P32793|YSC84_YEAST	99.78	453	1	0	10	462	16	468	0.0	917
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00144
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00144	sp|P32792|YHH7_YEAST	100.00	385	0	0	1	385	1	385	0.0	794
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00146_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00146_rev	sp|P04076|ARLY_YEAST	100.00	463	0	0	1	463	1	463	0.0	958
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00147_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00147_rev	sp|P38707|SYNC_YEAST	100.00	554	0	0	1	554	1	554	0.0	1150
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00148
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00148	sp|P38708|YHI0_YEAST	100.00	688	0	0	1	688	1	688	0.0	1431
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00149_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00149_rev	sp|Q99315|YG31B_YEAST	51.52	33	16	0	19	51	1514	1546	0.034	29.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00150
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00150	sp|Q6Q5P6|YH41A_YEAST	52.94	34	16	0	40	73	136	169	1e-06	43.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00152_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00152_rev	sp|P38711|RS27B_YEAST	100.00	76	0	0	1	76	7	82	4e-51	156
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00154
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00154	sp|P11972|SST2_YEAST	29.73	37	26	0	1	37	109	145	0.98	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00155_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00155_rev	sp|P38352|SAF1_YEAST	40.82	49	27	2	34	81	133	180	0.047	29.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00157_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00157_rev	sp|P38763|YHI2_YEAST	100.00	256	0	0	1	256	1	256	0.0	526
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00158
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00158	sp|P08964|MYO1_YEAST	100.00	1918	0	0	1	1918	11	1928	0.0	3870
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00159_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00159_rev	sp|P11914|MPPA_YEAST	100.00	482	0	0	1	482	1	482	0.0	1003
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00160_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00160_rev	sp|P07248|ADR1_YEAST	41.38	29	15	1	5	31	113	141	1.4	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00161
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00161	sp|P17423|KHSE_YEAST	100.00	357	0	0	1	357	1	357	0.0	733
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00162
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00162	sp|P23968|VATO_YEAST	100.00	213	0	0	1	213	1	213	7e-150	417
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00163_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00163_rev	sp|P38764|RPN1_YEAST	100.00	993	0	0	8	1000	1	993	0.0	2032
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00164_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00164_rev	sp|P18962|DAP2_YEAST	100.00	818	0	0	1	818	1	818	0.0	1675
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00166_rev
+# Database: Scer.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00167_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00167_rev	sp|P38765|YHI9_YEAST	100.00	294	0	0	1	294	1	294	0.0	609
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00168_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00168_rev	sp|Q00772|SLT2_YEAST	100.00	484	0	0	1	484	1	484	0.0	1011
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00169_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00169_rev	sp|P36022|DYHC_YEAST	40.00	25	13	1	12	36	3106	3128	4.6	21.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00170_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00170_rev	sp|P38766|RRM3_YEAST	100.00	723	0	0	1	723	1	723	0.0	1488
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00171
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00171	sp|P38767|ERC1_YEAST	100.00	581	0	0	20	600	1	581	0.0	1207
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00172_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00172_rev	sp|P53738|TR112_YEAST	32.14	28	17	1	11	38	102	127	2.3	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00173_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00173_rev	sp|P47090|YJY5_YEAST	45.45	22	12	0	13	34	134	155	6.8	21.2
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00174
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00174	sp|P38690|YHJ3_YEAST	100.00	395	0	0	1	395	29	423	0.0	818
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00175_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00175_rev	sp|P38768|PIH1_YEAST	100.00	344	0	0	1	344	1	344	0.0	702
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00176
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00176	sp|P38769|YHJ5_YEAST	100.00	630	0	0	7	636	1	630	0.0	1310
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00177_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00177_rev	sp|P27697|COQ8_YEAST	36.67	30	19	0	21	50	469	498	0.66	25.0
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00178
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00178	sp|P38770|BRL1_YEAST	100.00	471	0	0	1	471	1	471	0.0	977
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00179
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00179	sp|P07275|PUT2_YEAST	100.00	575	0	0	1	575	1	575	0.0	1197
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00180
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00180	sp|P38771|RRF1_YEAST	100.00	230	0	0	1	230	1	230	6e-165	457
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00181_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00181_rev	sp|P38694|MSC7_YEAST	100.00	635	0	0	1	635	10	644	0.0	1323
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00184_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00184_rev	sp|P48836|VATG_YEAST	100.00	83	0	0	1	83	32	114	1e-50	156
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00185
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00185	sp|P38772|BCD1_YEAST	100.00	366	0	0	7	372	1	366	0.0	768
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00186
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00186	sp|P38861|NMD3_YEAST	39.13	23	14	0	3	25	420	442	8.5	21.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00187_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00187_rev	sp|P34162|MED20_YEAST	100.00	180	0	0	1	180	31	210	2e-133	374
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00188
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00188	sp|P16603|NCPR_YEAST	100.00	691	0	0	1	691	1	691	0.0	1427
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00189_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00189_rev	sp|P38773|DOG2_YEAST	100.00	246	0	0	1	246	1	246	0.0	507
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00191_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00191_rev	sp|P38774|DOG1_YEAST	100.00	246	0	0	1	246	1	246	0.0	505
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00192
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00192	sp|P38775|YHK5_YEAST	100.00	544	0	0	1	544	17	560	0.0	1120
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00193_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00193_rev	sp|P38710|INM1_YEAST	100.00	295	0	0	1	295	1	295	0.0	611
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00194_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00194_rev	sp|P37898|AAP1_YEAST	100.00	856	0	0	17	872	1	856	0.0	1770
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00196
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00196	sp|Q05497|YD338_YEAST	27.45	51	32	1	2	52	142	187	0.40	25.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00198_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00198_rev	sp|P39978|YEH7_YEAST	36.84	19	12	0	2	20	157	175	2.1	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00201
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00201	sp|Q07379|YD057_YEAST	45.95	37	17	1	14	47	130	166	0.016	30.0
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00205
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00205	sp|P38776|YHK8_YEAST	100.00	514	0	0	1	514	1	514	0.0	1057
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00208
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00208	sp|P38777|FSH1_YEAST	100.00	243	0	0	1	243	1	243	0.0	500
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00209
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00209	sp|P38778|SMF2_YEAST	100.00	549	0	0	1	549	1	549	0.0	1122
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00210
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00210	sp|P00427|COX6_YEAST	100.00	148	0	0	1	148	1	148	6e-106	301
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00212
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00212	sp|P38779|CIC1_YEAST	100.00	376	0	0	1	376	1	376	0.0	753
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00213_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00213_rev	sp|P36093|PHD1_YEAST	41.86	43	23	1	17	57	156	198	0.099	27.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00215
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00215	sp|P53855|ATG2_YEAST	41.67	24	14	0	1	24	593	616	0.35	25.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00216_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00216_rev	sp|P38781|RSC30_YEAST	100.00	354	0	0	1	354	530	883	0.0	709
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00217_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00217_rev	sp|P36093|PHD1_YEAST	41.86	43	23	1	17	57	156	198	0.099	27.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00219
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00219	sp|P53855|ATG2_YEAST	41.67	24	14	0	1	24	593	616	0.35	25.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00221_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00221_rev	sp|P38781|RSC30_YEAST	100.00	883	0	0	1	883	1	883	0.0	1808
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00223_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00223_rev	sp|P23285|CYPB_YEAST	100.00	205	0	0	43	247	1	205	9e-152	423
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00224_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00224_rev	sp|P38782|MED6_YEAST	100.00	295	0	0	1	295	1	295	0.0	608
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00226
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00226	sp|P38783|FYV4_YEAST	100.00	76	0	0	1	76	55	130	1e-50	156
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00227
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00227	sp|P38784|VMA22_YEAST	100.00	181	0	0	1	181	1	181	1e-131	369
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00229_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00229_rev	sp|P38785|GIC1_YEAST	100.00	314	0	0	1	314	1	314	0.0	646
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00231_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00231_rev	sp|P38786|RPP1_YEAST	100.00	293	0	0	1	293	1	293	0.0	597
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00232_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00232_rev	sp|P38787|PANE_YEAST	100.00	379	0	0	1	379	1	379	0.0	791
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00234_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00234_rev	sp|P38788|SSZ1_YEAST	100.00	538	0	0	35	572	1	538	0.0	1091
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00236_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00236_rev	sp|P38712|RRP3_YEAST	100.00	501	0	0	43	543	1	501	0.0	1031
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00237
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00237	sp|P38789|SSF1_YEAST	100.00	453	0	0	1	453	1	453	0.0	922
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00239
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00239	sp|P38790|HTD2_YEAST	100.00	280	0	0	1	280	1	280	0.0	587
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00241
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00241	sp|P38791|DHYS_YEAST	100.00	387	0	0	1	387	1	387	0.0	804
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00242_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00242_rev	sp|P38792|RRP4_YEAST	100.00	359	0	0	1	359	1	359	0.0	739
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00243
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00243	sp|P08566|ARO1_YEAST	36.00	25	16	0	21	45	1036	1060	3.3	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00245
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00245	sp|P38793|TRM5_YEAST	100.00	499	0	0	1	499	1	499	0.0	1035
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00246
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00246	sp|P38794|PCL5_YEAST	100.00	229	0	0	1	229	1	229	2e-173	478
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00247
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00247	sp|P38604|ERG7_YEAST	100.00	731	0	0	59	789	1	731	0.0	1532
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00250
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00250	sp|Q6Q547|NOP10_YEAST	100.00	58	0	0	1	58	1	58	7e-38	120
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00251
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00251	sp|P38713|OSH3_YEAST	100.00	996	0	0	1	996	1	996	0.0	2061
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00254
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00254	sp|P38795|NADE_YEAST	100.00	714	0	0	1	714	1	714	0.0	1492
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00255_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00255_rev	sp|P38796|PPME1_YEAST	100.00	400	0	0	1	400	1	400	0.0	826
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00257_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00257_rev	sp|P38869|SVP26_YEAST	29.41	34	24	0	22	55	16	49	2.6	24.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00258_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00258_rev	sp|P04051|RPC1_YEAST	40.74	27	16	0	13	39	624	650	1.2	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00260
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00260	sp|P38797|PP2C7_YEAST	91.71	374	0	1	1	374	1	343	0.0	690
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00262_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00262_rev	sp|P38798|NMD2_YEAST	100.00	1087	0	0	5	1091	3	1089	0.0	2199
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00263
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00263	sp|P34221|PP2C3_YEAST	33.33	27	18	0	3	29	229	255	4.5	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00264
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00264	sp|P38799|YHN8_YEAST	100.00	544	0	0	1	544	9	552	0.0	1109
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00269_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00269_rev	sp|P32361|IRE1_YEAST	100.00	1115	0	0	1	1115	1	1115	0.0	2298
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00270_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00270_rev	sp|P89114|SAE3_YEAST	100.00	37	0	0	1	37	1	37	3e-19	73.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00274_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00274_rev	sp|P38800|LAM4_YEAST	100.00	1345	0	0	1	1345	1	1345	0.0	2761
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00275
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00275	sp|P40497|YIJ2_YEAST	34.09	44	23	2	1	40	275	316	0.87	24.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00276
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00276	sp|P36033|FRE2_YEAST	47.37	19	9	1	13	30	48	66	1.0	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00277
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00277	sp|P38801|LRP1_YEAST	100.00	184	0	0	1	184	1	184	7e-131	367
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00279_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00279_rev	sp|P38691|KSP1_YEAST	100.00	1029	0	0	1	1029	1	1029	0.0	2138
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00282
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00282	sp|P14693|SAM35_YEAST	100.00	329	0	0	1	329	1	329	0.0	685
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00283
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00283	sp|Q12511|PDP1_YEAST	34.21	38	22	1	2	36	349	386	0.63	25.0
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00284
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00284	sp|P13574|STE12_YEAST	100.00	688	0	0	1	688	1	688	0.0	1425
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00286
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00286	sp|P38803|IPI1_YEAST	100.00	334	0	0	1	334	1	334	0.0	688
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00287
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00287	sp|Q00539|NAM8_YEAST	100.00	523	0	0	1	523	1	523	0.0	1067
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00289
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00289	sp|P53943|AQR1_YEAST	46.43	28	13	1	27	52	64	91	1.1	24.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00290
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00290	sp|P38804|SDO1L_YEAST	100.00	111	0	0	1	111	1	111	1e-75	221
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00292
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00292	sp|P38805|RPF1_YEAST	100.00	295	0	0	1	295	1	295	0.0	598
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00294_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00294_rev	sp|P28007|GAR1_YEAST	100.00	205	0	0	1	205	1	205	1e-138	388
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00295_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00295_rev	sp|P38806|YNG2_YEAST	100.00	282	0	0	1	282	1	282	0.0	577
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00296_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00296_rev	sp|P38714|SYRM_YEAST	100.00	617	0	0	1	617	27	643	0.0	1282
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00298_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00298_rev	sp|P32467|HXT4_YEAST	100.00	576	0	0	1	576	1	576	0.0	1187
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00299
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00299	sp|P29589|AHT1_YEAST	100.00	182	0	0	1	182	1	182	9e-131	366
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00300_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00300_rev	sp|P32465|HXT1_YEAST	100.00	570	0	0	1	570	1	570	0.0	1176
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00301
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00301	sp|Q02201|OSH6_YEAST	44.44	27	15	0	6	32	288	314	0.70	28.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00306_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00306_rev	sp|P38695|HXT5_YEAST	100.00	592	0	0	1	592	1	592	0.0	1220
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00309
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00309	sp|P08566|ARO1_YEAST	35.29	34	21	1	6	39	108	140	1.2	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00311_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00311_rev	sp|P38809|YHP7_YEAST	100.00	231	0	0	1	231	136	366	3e-169	473
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00313_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00313_rev	sp|P38809|YHP7_YEAST	100.00	41	0	0	1	41	1	41	2e-23	88.2
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00317
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00317	sp|P39702|VPS8_YEAST	39.29	28	17	0	6	33	170	197	2.2	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00318_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00318_rev	sp|P38810|SFB3_YEAST	100.00	929	0	0	1	929	1	929	0.0	1925
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00319_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00319_rev	sp|P27705|MIG1_YEAST	65.00	20	7	0	1	20	28	47	0.084	27.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00322
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00322	sp|P38811|TRA1_YEAST	100.00	3744	0	0	1	3744	1	3744	0.0	7698
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00323_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00323_rev	sp|P38812|GEP4_YEAST	100.00	144	0	0	1	144	42	185	3e-105	300
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00324_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00324_rev	sp|P38813|BIG1_YEAST	100.00	298	0	0	4	301	38	335	0.0	600
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00325
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00325	sp|P38692|KIC1_YEAST	100.00	1080	0	0	1	1080	1	1080	0.0	2204
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00327
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00327	sp|P38814|SBE22_YEAST	100.00	852	0	0	1	852	1	852	0.0	1758
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00329
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00329	sp|P38715|GRE3_YEAST	100.00	327	0	0	1	327	1	327	0.0	679
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00330
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00330	sp|P38815|YPT35_YEAST	100.00	214	0	0	1	214	1	214	8e-161	445
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00331
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00331	sp|P38816|TRXB2_YEAST	100.00	342	0	0	1	342	1	342	0.0	710
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00332_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00332_rev	sp|P32468|CDC12_YEAST	100.00	407	0	0	1	407	1	407	0.0	845
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00333_rev
+# Database: Scer.fasta
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00335
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00335	sp|P38817|GGA2_YEAST	100.00	585	0	0	1	585	1	585	0.0	1196
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00336
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00336	sp|P38818|CTM1_YEAST	100.00	585	0	0	1	585	1	585	0.0	1204
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00338
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00338	sp|P38819|ERP5_YEAST	100.00	207	0	0	1	207	6	212	5e-154	427
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00339
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00339	sp|P38820|UBA4_YEAST	100.00	440	0	0	1	440	1	440	0.0	909
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00341_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00341_rev	sp|P38716|YHR2_YEAST	100.00	378	0	0	1	378	1	378	0.0	785
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00342
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00342	sp|P38821|DNPEP_YEAST	100.00	482	0	0	1	482	9	490	0.0	993
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00344
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00344	sp|P38822|BZZ1_YEAST	100.00	633	0	0	1	633	1	633	0.0	1304
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00345_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00345_rev	sp|P38823|DMA1_YEAST	100.00	416	0	0	1	416	1	416	0.0	864
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00348
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00348	sp|P38824|COX23_YEAST	100.00	131	0	0	1	131	21	151	1e-93	269
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00349
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00349	sp|P38825|TOM71_YEAST	100.00	639	0	0	1	639	1	639	0.0	1309
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00351_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00351_rev	sp|P38826|ORC6_YEAST	100.00	388	0	0	1	388	48	435	0.0	806
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00352
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00352	sp|P38827|SET1_YEAST	100.00	1080	0	0	1	1080	1	1080	0.0	2243
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00354
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00354	sp|P25846|MSH1_YEAST	100.00	959	0	0	1	959	1	959	0.0	1986
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00356
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00356	sp|P38828|LSM12_YEAST	100.00	170	0	0	1	170	18	187	2e-121	342
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00357
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00357	sp|P38829|YHS2_YEAST	100.00	231	0	0	1	231	1	231	6e-166	459
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00360
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00360	sp|P22140|EPT1_YEAST	100.00	346	0	0	1	346	46	391	0.0	704
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00361
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00361	sp|P38830|NDT80_YEAST	100.00	627	0	0	1	627	1	627	0.0	1295
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00363_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00363_rev	sp|P38832|ANS1_YEAST	100.00	159	0	0	1	159	1	159	2e-114	323
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00364
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00364	sp|Q07878|VPS13_YEAST	47.83	23	12	0	12	34	2305	2327	0.27	26.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00365
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00365	sp|P53334|SCW4_YEAST	25.49	51	38	0	3	53	139	189	3.1	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00366
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00366	sp|P38833|YHS7_YEAST	100.00	243	0	0	1	243	1	243	7e-179	493
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00367
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00367	sp|P18562|UPP_YEAST	100.00	216	0	0	1	216	1	216	6e-159	441
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00368_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00368_rev	sp|P38696|ARP1_YEAST	100.00	384	0	0	1	384	1	384	0.0	790
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00369
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00369	sp|P53049|YOR1_YEAST	37.93	29	18	0	11	39	229	257	3.7	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00372_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00372_rev	sp|P38835|YHT1_YEAST	100.00	850	0	0	1	850	1	850	0.0	1736
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00373
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00373	sp|P25621|FEN2_YEAST	61.54	13	5	0	1	13	300	312	3.3	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00374_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00374_rev	sp|P38836|ECM14_YEAST	100.00	430	0	0	1	430	1	430	0.0	900
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00375
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00375	sp|Q9P305|IGO2_YEAST	100.00	120	0	0	1	120	12	131	2e-82	239
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00376_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00376_rev	sp|P38837|NSG1_YEAST	100.00	291	0	0	38	328	1	291	0.0	595
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00377
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00377	sp|P38838|WSS1_YEAST	100.00	269	0	0	1	269	1	269	0.0	560
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00379_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00379_rev	sp|P23291|KC11_YEAST	100.00	538	0	0	1	538	1	538	0.0	1117
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00380_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00380_rev	sp|P38839|SPL2_YEAST	100.00	120	0	0	1	120	29	148	2e-86	250
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00384
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00384	sp|P38840|ARO9_YEAST	100.00	513	0	0	1	513	1	513	0.0	1062
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00386
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00386	sp|P53552|THO2_YEAST	25.93	27	20	0	14	40	948	974	3.3	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00387_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00387_rev	sp|P38841|YHT8_YEAST	100.00	46	0	0	1	46	69	114	4e-28	97.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00389_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00389_rev	sp|P13130|SS100_YEAST	100.00	326	0	0	36	361	1	326	0.0	637
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00391_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00391_rev	sp|P25584|PEX34_YEAST	50.00	20	10	0	16	35	68	87	1.7	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00393
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00393	sp|P38842|YHU0_YEAST	100.00	239	0	0	1	239	1	239	2e-177	489
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00394_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00394_rev	sp|P0CX28|RL44B_YEAST	100.00	72	0	0	1	72	35	106	2e-45	142
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00396
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00396	sp|P38843|CHS7_YEAST	100.00	316	0	0	1	316	1	316	0.0	634
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00399
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00399	sp|P38844|DSE2_YEAST	100.00	325	0	0	1	325	1	325	0.0	589
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00401
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00401	sp|P40422|RPAB4_YEAST	100.00	70	0	0	1	70	1	70	4e-46	142
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00402_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00402_rev	sp|P06773|DCTD_YEAST	100.00	312	0	0	1	312	1	312	0.0	651
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00406
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00406	sp|P0C289|YD34A_YEAST	43.40	53	27	2	30	81	6	56	0.094	26.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00409
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00409	sp|P53540|SPC98_YEAST	32.26	31	21	0	11	41	447	477	1.6	23.5
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00410
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00410	sp|P38845|CRP1_YEAST	100.00	460	0	0	1	460	6	465	0.0	911
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00414_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00414_rev	sp|P32904|RM06_YEAST	100.00	214	0	0	1	214	1	214	2e-157	436
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00415
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00415	sp|P32899|IMP3_YEAST	100.00	183	0	0	1	183	1	183	8e-136	379
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00417_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00417_rev	sp|P32900|SKG6_YEAST	100.00	729	0	0	1	729	6	734	0.0	1503
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00420_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00420_rev	sp|P53128|MTHR2_YEAST	37.50	32	20	0	9	40	343	374	0.10	27.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00421
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00421	sp|P38848|PEX28_YEAST	100.00	521	0	0	1	521	59	579	0.0	1088
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00422_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00422_rev	sp|P38849|MTC6_YEAST	100.00	526	0	0	1	526	1	526	0.0	1078
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00423_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00423_rev	sp|P32589|HSP7F_YEAST	27.27	22	16	0	10	31	362	383	8.2	21.2
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00427
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00427	sp|P17123|SPO12_YEAST	100.00	173	0	0	1	173	1	173	4e-126	354
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00429_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00429_rev	sp|P17122|SPO16_YEAST	100.00	198	0	0	1	198	1	198	2e-144	402
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00430
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00430	sp|P38850|RT107_YEAST	100.00	1070	0	0	1	1070	1	1070	0.0	2204
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00433
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00433	sp|P38851|LAM1_YEAST	100.00	1228	0	0	1	1228	1	1228	0.0	2535
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00434_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00434_rev	sp|P53261|PESC_YEAST	29.79	47	22	2	17	52	4	50	6.1	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00435_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00435_rev	sp|P38852|LIN1_YEAST	100.00	340	0	0	1	340	1	340	0.0	684
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00438
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00438	sp|P33323|RE104_YEAST	100.00	182	0	0	1	182	1	182	4e-135	377
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00439_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00439_rev	sp|P38853|KEL1_YEAST	100.00	1164	0	0	32	1195	1	1164	0.0	2400
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00442
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00442	sp|P38854|TDA11_YEAST	100.00	504	0	0	1	504	1	504	0.0	1033
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00443_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00443_rev	sp|P38855|PEX18_YEAST	100.00	273	0	0	1	273	11	283	0.0	559
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00444_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00444_rev	sp|P38856|AP18A_YEAST	100.00	637	0	0	1	637	1	637	0.0	1311
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00446_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00446_rev	sp|Q01217|ARG56_YEAST	48.39	31	13	1	5	32	271	301	0.015	30.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00447
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00447	sp|P38857|MPC2_YEAST	100.00	107	0	0	1	107	23	129	3e-75	220
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00448
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00448	sp|P38858|SOL3_YEAST	100.00	249	0	0	1	249	1	249	0.0	516
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00450_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00450_rev	sp|P38859|DNA2_YEAST	100.00	1522	0	0	1	1522	1	1522	0.0	3125
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00451_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00451_rev	sp|P33334|PRP8_YEAST	100.00	2413	0	0	1	2413	1	2413	0.0	4997
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00453_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00453_rev	sp|P16522|CDC23_YEAST	100.00	626	0	0	1	626	1	626	0.0	1299
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00454
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00454	sp|O13539|THP2_YEAST	100.00	261	0	0	1	261	1	261	0.0	534
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00457
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00457	sp|P38860|MTG2_YEAST	100.00	518	0	0	19	536	1	518	0.0	1074
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00458
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00458	sp|P38719|DBP8_YEAST	100.00	431	0	0	1	431	1	431	0.0	892
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00460_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00460_rev	sp|Q03306|PKH3_YEAST	37.14	35	17	1	14	48	326	355	1.1	24.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00461
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00461	sp|P38861|NMD3_YEAST	100.00	518	0	0	1	518	1	518	0.0	1084
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00462
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00462	sp|P38862|ATG7_YEAST	100.00	630	0	0	1	630	1	630	0.0	1298
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00463
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00463	sp|P38863|SPC97_YEAST	100.00	823	0	0	1	823	1	823	0.0	1701
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00465
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00465	sp|P00925|ENO2_YEAST	100.00	437	0	0	1	437	1	437	0.0	892
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00466
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00466	sp|P38865|CTR2_YEAST	100.00	189	0	0	1	189	1	189	4e-141	393
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00468
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00468	sp|P38866|FMO1_YEAST	100.00	432	0	0	1	432	1	432	0.0	898
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00469
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00469	sp|P38867|YHX7_YEAST	100.00	453	0	0	1	453	1	453	0.0	938
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00471
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00471	sp|P38699|STB5_YEAST	100.00	743	0	0	1	743	1	743	0.0	1548
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00473
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00473	sp|Q03558|OYE2_YEAST	100.00	400	0	0	1	400	1	400	0.0	824
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00474
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00474	sp|P38868|YHY0_YEAST	100.00	163	0	0	1	163	1	163	3e-117	331
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00475
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00475	sp|P38885|AIM46_YEAST	29.41	34	24	0	4	37	199	232	1.9	23.1
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00477
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00477	sp|P38869|SVP26_YEAST	100.00	228	0	0	1	228	1	228	1e-167	464
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00479
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00479	sp|P38870|YHY2_YEAST	100.00	785	0	0	1	785	1	785	0.0	1618
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00481
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00481	sp|P38720|6PGD1_YEAST	100.00	489	0	0	1	489	1	489	0.0	1011
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00482_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00482_rev	sp|Q08409|AUS1_YEAST	43.75	32	15	1	3	31	640	671	4.8	21.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00483
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00483	sp|P38871|SSP1_YEAST	100.00	571	0	0	1	571	1	571	0.0	1173
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00484_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00484_rev	sp|P38872|ADY1_YEAST	100.00	237	0	0	1	237	1	237	4e-179	494
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00485
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00485	sp|P39517|DHH1_YEAST	31.43	35	24	0	14	48	301	335	0.60	25.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00488_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00488_rev	sp|P38873|KOG1_YEAST	100.00	1541	0	0	1	1541	17	1557	0.0	3203
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00490
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00490	sp|P38874|ELP5_YEAST	100.00	309	0	0	1	309	1	309	0.0	639
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00491_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00491_rev	sp|P38875|GPI16_YEAST	100.00	602	0	0	1	602	9	610	0.0	1247
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00492
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00492	sp|P38876|PTH_YEAST	100.00	190	0	0	1	190	1	190	7e-140	390
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00493
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00493	sp|P29704|FDFT_YEAST	100.00	444	0	0	1	444	1	444	0.0	917
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00494_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00494_rev	sp|P38877|CTF8_YEAST	100.00	133	0	0	19	151	1	133	1e-94	271
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00496
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00496	sp|P38878|LNP_YEAST	100.00	278	0	0	1	278	1	278	0.0	575
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00497_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00497_rev	sp|P38879|NACA_YEAST	100.00	174	0	0	1	174	1	174	2e-123	347
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00499
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00499	sp|P38880|MDM31_YEAST	100.00	547	0	0	1	547	33	579	0.0	1116
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00501
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00501	sp|P38881|NVJ1_YEAST	100.00	321	0	0	1	321	1	321	0.0	657
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00502
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00502	sp|P38882|UTP9_YEAST	100.00	575	0	0	1	575	1	575	0.0	1164
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00503
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00503	sp|P38883|RIX1_YEAST	100.00	763	0	0	1	763	1	763	0.0	1547
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00504_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00504_rev	sp|P38884|AIM18_YEAST	100.00	259	0	0	1	259	63	321	0.0	528
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00505_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00505_rev	sp|P25587|LDB16_YEAST	30.00	30	21	0	8	37	211	240	6.6	21.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00506_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00506_rev	sp|P38885|AIM46_YEAST	100.00	310	0	0	1	310	1	310	0.0	637
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00507_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00507_rev	sp|Q3E7Y6|NBL1_YEAST	97.96	49	1	0	1	49	25	73	1e-26	92.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00509
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00509	sp|P38886|RPN10_YEAST	100.00	268	0	0	1	268	1	268	0.0	549
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00511_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00511_rev	sp|P38698|PPX1_YEAST	100.00	397	0	0	1	397	1	397	0.0	813
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00515
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00515	sp|P38887|YH02_YEAST	100.00	602	0	0	1	602	1	602	0.0	1256
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00516_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00516_rev	sp|P0CX35|RS4A_YEAST	100.00	242	0	0	1	242	20	261	1e-176	488
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00518
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00518	sp|P38888|MNL1_YEAST	100.00	796	0	0	1	796	1	796	0.0	1653
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00519
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00519	sp|P11792|SCH9_YEAST	100.00	824	0	0	1	824	1	824	0.0	1721
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00523
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00523	sp|P38889|SKN7_YEAST	100.00	622	0	0	1	622	1	622	0.0	1280
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00524_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00524_rev	sp|Q99271|NAH1_YEAST	52.63	19	9	0	21	39	541	559	1.5	23.5
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00525_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00525_rev	sp|P38890|SET5_YEAST	100.00	526	0	0	1	526	1	526	0.0	1095
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00530
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00530	sp|P43123|UAP1_YEAST	39.29	28	17	0	10	37	299	326	0.32	25.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00531
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00531	sp|P38891|BCA1_YEAST	100.00	393	0	0	1	393	1	393	0.0	814
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00532
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00532	sp|P38892|CRG1_YEAST	100.00	291	0	0	6	296	1	291	0.0	605
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00534_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00534_rev	sp|P38893|YH10_YEAST	100.00	341	0	0	1	341	1	341	0.0	704
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00538
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00538	sp|Q12483|SNF8_YEAST	45.83	24	13	0	1	24	20	43	8.5	21.2
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00539_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00539_rev	sp|P09436|SYIC_YEAST	38.10	21	13	0	18	38	874	894	6.6	21.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00541_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00541_rev	sp|Q08817|SOG2_YEAST	50.00	18	9	0	8	25	414	431	1.2	23.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00545_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00545_rev	sp|P46958|IDS2_YEAST	38.89	18	11	0	18	35	271	288	1.7	23.5
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00551
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00551	sp|P38894|FLO5_YEAST	100.00	1037	0	0	1	1037	39	1075	0.0	1964
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00552_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00552_rev	sp|P23254|TKT1_YEAST	28.57	28	20	0	5	32	126	153	2.5	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00554
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00554	sp|Q3E791|YA063_YEAST	87.50	48	6	0	1	48	49	96	2e-23	84.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00556_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00556_rev	sp|P39711|YAG4_YEAST	97.37	38	1	0	1	38	1	38	1e-21	79.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00558
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00558	sp|Q01454|CTF4_YEAST	40.91	22	13	0	16	37	505	526	0.95	24.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00561_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00561_rev	sp|P30283|CGS5_YEAST	58.33	12	5	0	12	23	328	339	6.3	21.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00562
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00562	sp|Q08967|FLC1_YEAST	77.78	9	2	0	8	16	329	337	7.1	21.2
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00564
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00564	sp|P40433|6P21_YEAST	31.82	22	15	0	10	31	385	406	2.5	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00565_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00565_rev	sp|P53932|YNJ5_YEAST	53.33	15	7	0	1	15	84	98	3.0	22.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00567_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00567_rev	sp|P40395|RIC1_YEAST	28.12	32	23	0	3	34	131	162	0.74	24.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00568
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00568	sp|Q12108|RTC5_YEAST	42.86	28	16	0	6	33	503	530	0.71	25.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00569_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00569_rev	sp|P50273|ATP22_YEAST	37.93	29	18	0	11	39	216	244	6.5	21.6
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00571_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00571_rev	sp|P34909|NOT4_YEAST	38.71	31	19	0	45	75	108	138	1.9	26.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00576
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00576	sp|P32768|FLO1_YEAST	69.57	46	14	0	2	47	69	114	3e-18	76.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00578
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00578	sp|P0CI67|YHU3_YEAST	100.00	198	0	0	1	198	1	198	1e-141	395
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00580_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00580_rev	sp|P39925|AFG3_YEAST	38.46	26	16	0	1	26	700	725	4.7	21.9
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00582_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00582_rev	sp|P53008|CWH41_YEAST	33.33	21	14	0	12	32	698	718	3.4	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00584
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00584	sp|P39970|ACA1_YEAST	50.00	20	10	0	21	40	355	374	0.14	27.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00586
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00586	sp|Q8TGT4|YH213_YEAST	100.00	40	0	0	1	40	38	77	6e-23	82.4
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00591
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00591	sp|P0CX18|YA066_YEAST	100.00	203	0	0	1	203	1	203	4e-138	387
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00593
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+./28.fa.txt_orf00593	sp|P40442|YIQ9_YEAST	72.34	329	56	4	1	329	493	786	5e-137	417
+./28.fa.txt_orf00593	sp|P40442|YIQ9_YEAST	47.06	153	59	5	208	351	847	986	4e-22	96.7
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00594_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00594_rev	sp|O13535|YH11B_YEAST	100.00	1227	0	0	1	1227	567	1793	0.0	2546
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00595_rev
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00595_rev	sp|P0C2I4|YH11A_YEAST	100.00	478	0	0	1	478	1	478	0.0	984
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00596
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00596	sp|P07252|CBP1_YEAST	25.71	35	26	0	21	55	559	593	6.0	22.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00597
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00597	sp|P47181|YJ9S_YEAST	70.59	17	5	0	15	31	87	103	2e-04	35.8
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00599
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00599	sp|P47181|YJ9S_YEAST	75.44	57	14	0	1	57	201	257	4e-26	96.3
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00602
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00602	sp|P38693|PPAC_YEAST	100.00	467	0	0	1	467	1	467	0.0	977
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00604
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00604	sp|P38697|IMDH2_YEAST	100.00	523	0	0	12	534	1	523	0.0	1080
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00605
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00605	sp|P38722|YHE9_YEAST	98.78	245	3	0	1	245	27	271	0.0	502
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00606
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00606	sp|Q3E7Y5|YB111_YEAST	100.00	402	0	0	9	410	266	667	0.0	840
+# BLASTP 2.2.31+
+# Query: ./28.fa.txt_orf00612
+# Database: Scer.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+./28.fa.txt_orf00612	sp|P38900|YH19_YEAST	100.00	624	0	0	1	624	1	624	0.0	1300
+# BLAST processed 364 queries
