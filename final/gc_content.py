@@ -19,7 +19,7 @@ def compute_gc(sequence): #####computes GC content########
 		if y == 'N':
 			nonnucl=nonnucl+1
 	gccontent= add/(newlen-nonnucl)
-	print (gccontent)
+	return (gccontent)
 
 def dinucleotide(sequence): #####computes dinucleotide frequency #############
     nucldict={"AA","AT","AC","AG","GG","GC","GA","GT","CA","CG","CT","CC","TA","TC","TT","TG"}
