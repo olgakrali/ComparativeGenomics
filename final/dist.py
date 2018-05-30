@@ -1,4 +1,4 @@
-from mono import *
+from gc_content import *
 import math
 import pandas as pd
 import numpy as np
