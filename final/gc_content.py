@@ -19,12 +19,12 @@ def compute_gc(sequence): #####computes GC content########
 		if y == 'N':
 			nonnucl=nonnucl+1
 	gccontent= add/(newlen-nonnucl)
-	return gccontent
+	print (gccontent)
 
 def dinucleotide(sequence): #####computes dinucleotide frequency #############
     nucldict={"AA","AT","AC","AG","GG","GC","GA","GT","CA","CG","CT","CC","TA","TC","TT","TG"}
     newlist=[]
-    for i in range(0,len(sequence)-1):
+    for i in range(0,len(sequence)):
         di_nucl=sequence[i:i+2]
         newlist.append(di_nucl)
     new_dict = Counter(newlist)
@@ -36,7 +36,7 @@ def dinucleotide(sequence): #####computes dinucleotide frequency #############
     for key,value in new_dict.items():
         for i in newkey:
             if key== i:
-                print(key,value/(len(sequence)-1))
+                print(key,value/len(sequence))
                 
 def diaminoacids(sequence): # diaminoacids frequency#
     x=["A","C","D","E","F","G","H","I","K","L","M","N","P","Q","R","S","T","V","W","Y"]
@@ -48,7 +48,7 @@ def diaminoacids(sequence): # diaminoacids frequency#
     for key,value in combinations.items():
         keylist.append(value)
     nucldict=set(keylist)
-    for i in range(0,len(sequence)-1):
+    for i in range(0,len(sequence)):
         di_nucl=sequence[i:i+2]
         newlist.append(di_nucl)
     new_dict = Counter(newlist)
@@ -56,14 +56,59 @@ def diaminoacids(sequence): # diaminoacids frequency#
     for key,value in new_dict.items():
         for i in newkey:
             if key== i:
-                print(key,value/(len(sequence)-1))
+                key,value/len(sequence)
+                
+def mononucleotides(sequence):
+    newlist=[]
+    sequence=fastaread(sequence)
+    for i in range(0,len(sequence)):
+        di_nucl=sequence[i:i+1]
+        newlist.append(di_nucl)
+    new_dict = Counter(newlist)
+    for key,value in new_dict.items():
+        if key == 'A':
+            Acontent=value/len(sequence)
+    for key,value in new_dict.items():
+        if key == 'T':
+            Tcontent=value/len(sequence)
+    for key,value in new_dict.items():
+        if key == 'C':
+            Ccontent=value/len(sequence)
+    for key,value in new_dict.items():
+        if key == 'G':
+            Gcontent=value/len(sequence)
+    return (Acontent,Tcontent,Ccontent,Gcontent)
+    
+def monoaminoacids(sequence):
+    newlist=[]
+    keylist=[]
+    a_a=['A','C','D','E','F','G','H','I','K','L','M','N','P','Q','R','S','T','V','W','Y']
+    for i in range(0,len(sequence)-1):
+        di_nucl=sequence[i:i+1]
+        newlist.append(di_nucl)
+    new_dict = Counter(newlist)
+    for key,value in new_dict.items():
+        keylist.append(key)
+    keyset= set(keylist)
+    newkey= (keyset).intersection(a_a)
+    for key,value in new_dict.items():
+        for i in newkey:
+            if key== i:
+                print(key,value/len(sequence))
+    
+
       
 if __name__=="__main__":
-   compute_gc(fastaread("04.fasta"))
-   fastaread("04.fasta")
-   dinucleotide(fastaread("04.fasta"))
-   diaminoacids(fastaread("04.pfa"))
+	compute_gc(fastaread("28.fasta"))
+	fastaread("28.fasta")
+	dinucleotide(fastaread("28.fasta"))
+	diaminoacids(fastaread("28.pfa"))
+	mononucleotides("28.fasta")    
+	monoaminoacids(fastaread("28.pfa"))
     
+
+
+
 
 
 
