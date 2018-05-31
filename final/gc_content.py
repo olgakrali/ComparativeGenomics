@@ -37,7 +37,7 @@ def dinucleotide(sequence): # computes the di-nucleotide frequency, without taki
     for key,value in new_dict.items():
         for i in newkey:
             if key== i:
-                key,value/len(sequence)
+                print(key,value/(len(sequence)-1))
                 
 def diaminoacids(sequence): # computes the di-amino acid frequency, using the predicted protein file as input #
     sequence = fastaread(sequence)
@@ -58,7 +58,7 @@ def diaminoacids(sequence): # computes the di-amino acid frequency, using the pr
     for key,value in new_dict.items():
         for i in newkey:
             if key== i:
-                key,value/len(sequence)
+                print(key,value/(len(sequence)-1))
                 
 def mononucleotides(sequence): # computes the mono nucleotide frequency #
     sequence = fastaread(sequence)
