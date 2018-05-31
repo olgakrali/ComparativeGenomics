@@ -22,6 +22,7 @@ def compute_gc(sequence): # computes the GC content from the previous string, wi
 	return (gccontent)
 
 def dinucleotide(sequence): # computes the di-nucleotide frequency, without taking into account 'N'(non-nucleotide) #
+    sequence = fastaread(sequence)
     nucldict={"AA","AT","AC","AG","GG","GC","GA","GT","CA","CG","CT","CC","TA","TC","TT","TG"}
     newlist=[]
     for i in range(0,(len(sequence)-1)):
@@ -39,6 +40,7 @@ def dinucleotide(sequence): # computes the di-nucleotide frequency, without taki
                 key,value/len(sequence)
                 
 def diaminoacids(sequence): # computes the di-amino acid frequency, using the predicted protein file as input #
+    sequence = fastaread(sequence)
     x=["A","C","D","E","F","G","H","I","K","L","M","N","P","Q","R","S","T","V","W","Y"]
     y=["A","C","D","E","F","G","H","I","K","L","M","N","P","Q","R","S","T","V","W","Y"]
     combos = [str(i) + str(j) for i in x for j in y]
@@ -59,22 +61,24 @@ def diaminoacids(sequence): # computes the di-amino acid frequency, using the pr
                 key,value/len(sequence)
                 
 def mononucleotides(sequence): # computes the mono nucleotide frequency #
+    sequence = fastaread(sequence)
     contentA = sequence.count('A')/len(sequence)
     contentT = sequence.count('T')/len(sequence)
     contentC = sequence.count('C')/len(sequence)
     contentG = sequence.count('G')/len(sequence)
-    return contentA,contentT,contentC,contentG
+    return (contentA,contentT,contentC,contentG)
                 
-def monoaminoacids(sequence): # computes mono aminoacids #
+def monoaminoacids(sequence): # computes mono aminoacids 
+    sequence = fastaread(sequence)
     a_a=['A','C','D','E','F','G','H','I','K','L','M','N','P','Q','R','S','T','V','W','Y']
     for i in a_a:
         Contenti = sequence.count(i)/len(sequence)
         print(i, Contenti)
                       
 if __name__=="__main__":
-	compute_gc(fastaread("28.fasta"))
-	fastaread("28.fasta")
-	dinucleotide(fastaread("28.fasta"))
-	diaminoacids(fastaread("04.pfa"))
-	mononucleotides(fastaread("28.fasta"))
-	monoaminoacids(fastaread("04.pfa"))
+    fastaread("28.fasta")
+    compute_gc(fastaread("28.fasta"))
+    dinucleotide("28.fasta")
+    diaminoacids("04.pfa")
+    mononucleotides("28.fasta")
+    monoaminoacids("04.pfa")
