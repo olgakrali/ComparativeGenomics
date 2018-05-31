@@ -19,7 +19,7 @@ def compute_gc(sequence): # computes the GC content from the previous string, wi
 		if y == 'N':
 			nonnucl=nonnucl+1
 	gccontent= add/(newlen-nonnucl)
-	return (gccontent)
+	return (gccontent)*100
 
 def dinucleotide(sequence): # computes the di-nucleotide frequency, without taking into account 'N'(non-nucleotide) #
     sequence = fastaread(sequence)
@@ -79,6 +79,6 @@ if __name__=="__main__":
     fastaread("28.fasta")
     compute_gc(fastaread("28.fasta"))
     dinucleotide("28.fasta")
-    diaminoacids("04.pfa")
+    diaminoacids("28.pfa")
     mononucleotides("28.fasta")
-    monoaminoacids("04.pfa")
+    monoaminoacids("28.pfa")
