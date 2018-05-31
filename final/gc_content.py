@@ -65,8 +65,7 @@ def mononucleotides(sequence): # computes the mono nucleotide frequency #
     contentG = sequence.count('G')/len(sequence)
     return contentA,contentT,contentC,contentG
                 
-def monoaminoacids(sequence): # computes mono aminoacids 
-    #print(sequence)
+def monoaminoacids(sequence): # computes mono aminoacids #
     a_a=['A','C','D','E','F','G','H','I','K','L','M','N','P','Q','R','S','T','V','W','Y']
     for i in a_a:
         Contenti = sequence.count(i)/len(sequence)
