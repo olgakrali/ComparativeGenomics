@@ -2,7 +2,7 @@ from gc_content import *
 import math
 import pandas as pd
 import numpy as np
-## Get the GC content for all species for the module mygc.py
+## Get the nucleotide frequency for all species for the module gc_content.py
 
 A4 = mononucleotides("04.fasta")[0]
 A10 = mononucleotides("10.fasta")[0]
